@@ -1,0 +1,5 @@
+# Created at 2026-05-08T16:39:43.127
+Boot Manifest-JAR contains absolute paths in classpath 'D:\code\git_pr\sneaker-showcase\backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
